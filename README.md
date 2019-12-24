@@ -13,10 +13,18 @@ This website recommends the best jpop.<br>
 각 게시글에 달린 덧글을 데이터베이스에서 가져와 화면에 표시한다. 수정과 제거는 웹서버에서 요청하면 데이터베이스에서 이루어진다.
 
 ## 전체구성도
+<br>
 ![diagram](readme_img/diagram.png)
+<br><br>
 ## 메인화면
+<br>
 ![main](readme_img/main.png)
+<br><br>
 ## 곡 정보 화면
+<br>
 ![songingo](readme_img/songinfo.png)
+<br><br>
 ## 코멘트
+<br>
 ![comment](readme_img/comment.png)
+<br><br>
