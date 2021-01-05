@@ -1,4 +1,4 @@
-# [J-POP OnePick](http://bso11246.dothome.co.kr/sku-web/index.php)<br>
+# J-POP OnePick
 관리자 취향대로 고른 J-pop에 대한 정보를 제공해주는 사이트입니다.
 
 ## 주요기능
